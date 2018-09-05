@@ -1,2 +1,7 @@
-<?php echo"yuma" ?>;
-git init
+<?php
+echo"yuma <br>";
+echo "mango <br>";
+
+?>
+
+
